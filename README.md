@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-khotem-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://khotem.com/
+khotem-com is currently listed as a stub in the API Evangelist catalog with limited publicly available information. No official website, documentation, or API endpoints have been identified for this entity. The entry exists to enable future enrichment should verifiable resources become available, and to maintain a placeholder within the network for potential discovery.
+
+**Areas:** Company · Unknown · Stub · API · Placeholder
+
+## khotem-com on APIs.io
+
+Everything profiled for khotem-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/khotem-com/](https://apis.io/providers/khotem-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (45)
+
+- [khotem-com A1 API](https://apis.io/apis/khotem-com/khotem-com-a1-api/) — The A1 API from khotem-com — 1 operation(s) for a1.
+- [khotem-com Agent Credit Report API](https://apis.io/apis/khotem-com/khotem-com-agent-credit-report-api/) — The Agent Credit Report API from khotem-com — 1 operation(s) for agent credit report.
+- [khotem-com Agent Verify API](https://apis.io/apis/khotem-com/khotem-com-agent-verify-api/) — The Agent Verify API from khotem-com — 1 operation(s) for agent verify.
+- [khotem-com Archive API](https://apis.io/apis/khotem-com/khotem-com-archive-api/) — The Archive API from khotem-com — 1 operation(s) for archive.
+- [khotem-com Attest API](https://apis.io/apis/khotem-com/khotem-com-attest-api/) — The Attest API from khotem-com — 2 operation(s) for attest.
+- [khotem-com Audit API](https://apis.io/apis/khotem-com/khotem-com-audit-api/) — The Audit API from khotem-com — 1 operation(s) for audit.
+- [khotem-com Booth API](https://apis.io/apis/khotem-com/khotem-com-booth-api/) — The Booth API from khotem-com — 1 operation(s) for booth.
+- [khotem-com Brain API](https://apis.io/apis/khotem-com/khotem-com-brain-api/) — The Brain API from khotem-com — 1 operation(s) for brain.
+- [khotem-com Channel API](https://apis.io/apis/khotem-com/khotem-com-channel-api/) — The Channel API from khotem-com — 2 operation(s) for channel.
+- [khotem-com Deal API](https://apis.io/apis/khotem-com/khotem-com-deal-api/) — The Deal API from khotem-com — 1 operation(s) for deal.
+- [khotem-com Doc API](https://apis.io/apis/khotem-com/khotem-com-doc-api/) — The Doc API from khotem-com — 3 operation(s) for doc.
+- [khotem-com Fetch API](https://apis.io/apis/khotem-com/khotem-com-fetch-api/) — The Fetch API from khotem-com — 1 operation(s) for fetch.
+- [khotem-com Forge API](https://apis.io/apis/khotem-com/khotem-com-forge-api/) — The Forge API from khotem-com — 1 operation(s) for forge.
+- [khotem-com Gas API](https://apis.io/apis/khotem-com/khotem-com-gas-api/) — The Gas API from khotem-com — 1 operation(s) for gas.
+- [khotem-com Intake API](https://apis.io/apis/khotem-com/khotem-com-intake-api/) — The Intake API from khotem-com — 1 operation(s) for intake.
+- [khotem-com Kudo API](https://apis.io/apis/khotem-com/khotem-com-kudo-api/) — The Kudo API from khotem-com — 1 operation(s) for kudo.
+- [khotem-com Lif API](https://apis.io/apis/khotem-com/khotem-com-lif-api/) — The Lif API from khotem-com — 1 operation(s) for lif.
+- [khotem-com Market Pulse API](https://apis.io/apis/khotem-com/khotem-com-market-pulse-api/) — The Market Pulse API from khotem-com — 1 operation(s) for market pulse.
+- [khotem-com Market Report API](https://apis.io/apis/khotem-com/khotem-com-market-report-api/) — The Market Report API from khotem-com — 1 operation(s) for market report.
+- [khotem-com Med API](https://apis.io/apis/khotem-com/khotem-com-med-api/) — The Med API from khotem-com — 1 operation(s) for med.
+- [khotem-com Oracle API](https://apis.io/apis/khotem-com/khotem-com-oracle-api/) — The Oracle API from khotem-com — 1 operation(s) for oracle.
+- [khotem-com Pack API](https://apis.io/apis/khotem-com/khotem-com-pack-api/) — The Pack API from khotem-com — 2 operation(s) for pack.
+- [khotem-com Packet API](https://apis.io/apis/khotem-com/khotem-com-packet-api/) — The Packet API from khotem-com — 1 operation(s) for packet.
+- [khotem-com Peer API](https://apis.io/apis/khotem-com/khotem-com-peer-api/) — The Peer API from khotem-com — 1 operation(s) for peer.
+- [khotem-com Pool API](https://apis.io/apis/khotem-com/khotem-com-pool-api/) — The Pool API from khotem-com — 2 operation(s) for pool.
+- [khotem-com Price API](https://apis.io/apis/khotem-com/khotem-com-price-api/) — The Price API from khotem-com — 1 operation(s) for price.
+- [khotem-com Pulse API](https://apis.io/apis/khotem-com/khotem-com-pulse-api/) — The Pulse API from khotem-com — 1 operation(s) for pulse.
+- [khotem-com Qsim API](https://apis.io/apis/khotem-com/khotem-com-qsim-api/) — The Qsim API from khotem-com — 1 operation(s) for qsim.
+- [khotem-com Receipt API](https://apis.io/apis/khotem-com/khotem-com-receipt-api/) — The Receipt API from khotem-com — 2 operation(s) for receipt.
+- [khotem-com Room API](https://apis.io/apis/khotem-com/khotem-com-room-api/) — The Room API from khotem-com — 2 operation(s) for room.
+- [khotem-com Scholar API](https://apis.io/apis/khotem-com/khotem-com-scholar-api/) — The Scholar API from khotem-com — 1 operation(s) for scholar.
+- [khotem-com Seal API](https://apis.io/apis/khotem-com/khotem-com-seal-api/) — The Seal API from khotem-com — 3 operation(s) for seal.
+- [khotem-com Sealcheck API](https://apis.io/apis/khotem-com/khotem-com-sealcheck-api/) — The Sealcheck API from khotem-com — 1 operation(s) for sealcheck.
+- [khotem-com Selector API](https://apis.io/apis/khotem-com/khotem-com-selector-api/) — The Selector API from khotem-com — 1 operation(s) for selector.
+- [khotem-com Seller Audit API](https://apis.io/apis/khotem-com/khotem-com-seller-audit-api/) — The Seller Audit API from khotem-com — 1 operation(s) for seller audit.
+- [khotem-com Spa API](https://apis.io/apis/khotem-com/khotem-com-spa-api/) — The Spa API from khotem-com — 3 operation(s) for spa.
+- [khotem-com Status API](https://apis.io/apis/khotem-com/khotem-com-status-api/) — The Status API from khotem-com — 1 operation(s) for status.
+- [khotem-com Thread API](https://apis.io/apis/khotem-com/khotem-com-thread-api/) — The Thread API from khotem-com — 2 operation(s) for thread.
+- [khotem-com Trust Score API](https://apis.io/apis/khotem-com/khotem-com-trust-score-api/) — The Trust Score API from khotem-com — 1 operation(s) for trust score.
+- [khotem-com Tune API](https://apis.io/apis/khotem-com/khotem-com-tune-api/) — The Tune API from khotem-com — 1 operation(s) for tune.
+- [khotem-com Urlstatus API](https://apis.io/apis/khotem-com/khotem-com-urlstatus-api/) — The Urlstatus API from khotem-com — 1 operation(s) for urlstatus.
+- [khotem-com Verify API](https://apis.io/apis/khotem-com/khotem-com-verify-api/) — The Verify API from khotem-com — 1 operation(s) for verify.
+- [khotem-com Wallet Dossier API](https://apis.io/apis/khotem-com/khotem-com-wallet-dossier-api/) — The Wallet Dossier API from khotem-com — 1 operation(s) for wallet dossier.
+- [khotem-com Weather API](https://apis.io/apis/khotem-com/khotem-com-weather-api/) — The Weather API from khotem-com — 1 operation(s) for weather.
+- [khotem-com .well Known API](https://apis.io/apis/khotem-com/khotem-com-well-known-api/) — The .well Known API from khotem-com — 2 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Khotem Com Agentic Access](https://apis.io/agentic-access/khotem-com/khotem-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [khotem-com API Rules](https://apis.io/rules/khotem-com/khotem-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Khotem Com Domain Security](https://apis.io/security/khotem-com/khotem-com-domain-security/)
+- [Khotem Com Vulnerability Disclosure](https://apis.io/security/khotem-com/khotem-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://khotem.com/)
+- [API reference](https://khotem.com/llms.txt)
+- [Pricing](https://khotem.com/pricing)
+- [Security](https://khotem.com/.well-known/security.txt)
+- [Status](https://khotem.com/status)
+
+## API Evangelist rating
+
+**Kin Score 33.2** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 37.2 |
+| Contract governance | 65.5 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 30.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/khotem-com/](https://apis.io/providers/khotem-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for khotem-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/khotem-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
